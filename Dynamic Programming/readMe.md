@@ -10,7 +10,7 @@
 
 ### 🎒 <span style="color:#9B59B6;">0/1 Knapsack and Problems Based on It</span>
 
-1. **0/1 Knapsack** [🔗](https://github.com/shashwatw/DSA/blob/master/Dynamic%20Programming/0-1-Knapsack.cpp)
+1. **0/1 Knapsack** [🔗](https://github.com/VatsalS31/DSA/blob/master/Dynamic%20Programming/0-1-Knapsack.cpp)
    - 🌀 Recursive
    - 🌀 Memoization
    - 🌀 Tabulation
